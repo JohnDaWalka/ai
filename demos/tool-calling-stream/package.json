@@ -16,7 +16,7 @@
 		"type-check": "tsc --noEmit"
 	},
 	"dependencies": {
-		"agents": "^0.0.90",
+		"agents": "^0.3.10",
 		"ai": "^4.3.16",
 		"hono": "^4.7.10",
 		"workers-ai-provider": "0.5.1",
