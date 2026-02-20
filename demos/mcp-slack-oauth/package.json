@@ -13,7 +13,7 @@
 		"@cloudflare/workers-oauth-provider": "^0.0.5",
 		"@modelcontextprotocol/sdk": "^1.11.4",
 		"@slack/web-api": "^7.9.2",
-		"hono": "^4.7.10",
+		"hono": "^4.11.10",
 		"just-pick": "^4.2.0",
 		"octokit": "^5.0.2",
 		"workers-mcp": "^0.0.13"
