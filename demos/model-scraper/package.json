@@ -19,9 +19,9 @@
 		"type-check": "tsc --noEmit"
 	},
 	"dependencies": {
-		"agents": "^0.0.90",
+		"agents": "^0.3.10",
 		"ai": "^4.3.16",
-		"hono": "^4.7.10",
+		"hono": "^4.12.0",
 		"workers-ai-provider": "0.5.1",
 		"zod": "^3.25.16"
 	},
